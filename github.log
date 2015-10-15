@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  13 OCT 2015 05:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  14 OCT 2015 17:09
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -445,45 +445,29 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 137.
+LaTeX Font Info:    Try loading font information for U+msa on input line 136.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 137.
+LaTeX Font Info:    Try loading font information for U+msb on input line 136.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 137.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 136.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (10.71048pt too wide) in paragraph at lines 137--137
+Overfull \hbox (10.71048pt too wide) in paragraph at lines 136--136
  []\eaddfnt lleipuner@researchlabs.org| 
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 138--138
-[][]\T1/aer/m/n/9 (Does NOT pro-duce the per-mis-sion block, copy-right
- []
-
-
-Underfull \hbox (badness 6032) in paragraph at lines 138--138
-\T1/aer/m/n/9 in-for-ma-tion nor page num-ber-ing). For use with
- []
-
-LaTeX Font Info:    Try loading font information for T1+aett on input line 138.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/ae/t1aett.fd
-File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
-)
-Overfull \hbox (1.0793pt too wide) in paragraph at lines 139--145
+Overfull \hbox (1.0793pt too wide) in paragraph at lines 138--144
 \T1/aer/m/it/9 Prepar-ing ACM SIG Pro-ceed-ings Us-ing L[]T[]X$\OT1/cmr/m/n/9 2[]$ \T1/aer/m/it/9 and BibT[]X\T1/aer/m/n/9 .
  []
 
 
-Underfull \vbox (badness 2680) has occurred while \output is active []
-
-
-Overfull \hbox (1.26794pt too wide) in paragraph at lines 161--162
+Overfull \hbox (1.26794pt too wide) in paragraph at lines 160--161
 \T1/aer/m/n/9 H.4 [\T1/aer/bx/n/9 Information Sys-tems Ap-pli-ca-tions\T1/aer/m/n/9 ]: Mis-cel-la-neous;
  []
 
@@ -497,13 +481,19 @@ LaTeX Warning: Citation `falkner2012supporting' on page \thepage  undefined on i
 
 LaTeX Warning: Citation `hamer2008contributing' on page \thepage  undefined on input line 13.
 
-
+LaTeX Font Info:    Try loading font information for T1+aett on input line 16.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ae/t1aett.fd
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
 Underfull \hbox (badness 10000) in paragraph at lines 16--16
 [][]$\T1/aett/m/n/9 http : / / readwrite . com / 2013 / 11 / 08 / seven -[] ways -[] to -[]
  []
 
 
 LaTeX Warning: Citation `dabbish2012social' on page \thepage  undefined on input line 16.
+
+
+LaTeX Warning: Citation `Zagalsky' on page \thepage  undefined on input line 16.
 
 [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -533,7 +523,6 @@ LaTeX Warning: Citation `hamer2008contributing' on page \thepage  undefined on i
 
 LaTeX Warning: Citation `falkner2012supporting' on page \thepage  undefined on input line 13.
 
-[2]
 
 LaTeX Warning: Citation `Reid:2005:LDI:1047124.1047441' on page \thepage  undefined on input line 40.
 
@@ -543,6 +532,10 @@ LaTeX Warning: Citation `Clifton:2007:SFS:1227504.1227344' on page \thepage  und
 
 LaTeX Warning: Citation `Griffin:2013:GCJ:2458539.2458551' on page \thepage  undefined on input line 40.
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
 
 LaTeX Warning: Citation `kelleher2014employing' on page \thepage  undefined on input line 42.
 
@@ -556,18 +549,14 @@ LaTeX Warning: Citation `zagalsky' on page \thepage  undefined on input line 46.
 
 LaTeX Warning: Reference `fig:schedule' on page \thepage  undefined on input line 19.
 
-[3]
+
 Underfull \hbox (badness 10000) in paragraph at lines 25--25
 [][]$\T1/aett/m/n/9 https : / / www . uvic . ca / til / services / services _ cs /
  []
 
-) (./4-methodology.tex
+) (./4-methodology.tex [3]
 
 LaTeX Warning: Citation `easterbrook2008selecting' on page \thepage  undefined on input line 2.
-
-
-Underfull \vbox (badness 1308) has occurred while \output is active []
-
 
 
 LaTeX Warning: Citation `creswell2013research' on page \thepage  undefined on input line 14.
@@ -594,9 +583,6 @@ Overfull \hbox (10.76247pt too wide) in paragraph at lines 41--65
  [] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 ) (./5-results.tex
 Overfull \hbox (2.17023pt too wide) in paragraph at lines 4--4
 []\secfnt RQ1: What are com-puter sci-ence and soft-
@@ -612,7 +598,6 @@ Overfull \hbox (2.3472pt too wide) in paragraph at lines 45--46
 []\T1/aer/m/n/9 Beyond the ben-e-fit of us-ing GitHub in pro-gram-ming projects,
  []
 
-[5]
 
 LaTeX Warning: Citation `zagalsky' on page \thepage  undefined on input line 65.
 
@@ -621,7 +606,7 @@ Overfull \hbox (4.63019pt too wide) in paragraph at lines 64--66
 []\T1/aer/bx/n/9 Benefit: Sup-port-ing Stu-dent Con-tri-bu-tions to Course
  []
 
-
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
@@ -638,19 +623,22 @@ Overfull \hbox (1.02962pt too wide) in paragraph at lines 118--118
  []
 
 
+Underfull \vbox (badness 5802) has occurred while \output is active []
+
+
 Overfull \hbox (5.99193pt too wide) in paragraph at lines 172--174
 \T1/aer/m/n/9 han-dles no-ti-fi-ca-tions from the repos-i-tory nev-er-the-less emerged
+ []
+
+
+Overfull \hbox (1.84161pt too wide) in paragraph at lines 175--176
+\T1/aer/m/n/9 were di-rectly men-tioned. How-ever, if the stu-dents did `watch'
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-Overfull \hbox (1.84161pt too wide) in paragraph at lines 175--176
-\T1/aer/m/n/9 were di-rectly men-tioned. How-ever, if the stu-dents did `watch'
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
@@ -671,14 +659,17 @@ Overfull \hbox (1.57306pt too wide) in paragraph at lines 207--208
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
 Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
-) (./6-discussion.tex
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]) (./6-discussion.tex
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
 
 LaTeX Warning: Citation `malikowski2007model' on page \thepage  undefined on input line 7.
 
@@ -702,13 +693,16 @@ LaTeX Warning: Citation `collis2006contributing' on page \thepage  undefined on 
 
 LaTeX Warning: Citation `hamer2011tools' on page \thepage  undefined on input line 12.
 
-[9]
 
 LaTeX Warning: Citation `hamer2006some' on page \thepage  undefined on input line 14.
 
 
 LaTeX Warning: Citation `sondergaard2012collaborative' on page \thepage  undefined on input line 14.
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
 
 LaTeX Warning: Citation `dabbish2012social' on page \thepage  undefined on input line 20.
 
@@ -732,9 +726,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
@@ -742,7 +733,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
 LaTeX Warning: Citation `hamer2006some' on page \thepage  undefined on input line 64.
 
-[10]
 
 ./6-discussion.tex:69: LaTeX Error: There's no line here to end.
 
@@ -761,7 +751,7 @@ Overfull \hbox (3.87714pt too wide) in paragraph at lines 72--76
 \T1/aer/m/n/9 from plaigarism con-cerns that ex-ist when stu-dents are putting
  []
 
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
  []
@@ -778,10 +768,6 @@ Overfull \hbox (4.87329pt too wide) in paragraph at lines 85--88
 Overfull \hbox (6.09836pt too wide) in paragraph at lines 89--1
 []\T1/aer/m/n/9 Moreover, all stu-dent con-tri-bu-tions are avail-able for the course
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 LaTeX Warning: Citation `jazayeri2004education' on page \thepage  undefined on input line 8.
@@ -801,19 +787,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11713 strings out of 493315
- 214178 string characters out of 6137904
- 263485 words of memory out of 5000000
- 14844 multiletter control sequences out of 15000+600000
- 56868 words of font info for 78 fonts, out of 8000000 for 9000
+ 11712 strings out of 493315
+ 214175 string characters out of 6137904
+ 264486 words of memory out of 5000000
+ 14845 multiletter control sequences out of 15000+600000
+ 54554 words of font info for 76 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 63i,13n,57p,1378b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dis
-t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on github.pdf (12 pages, 233809 bytes).
+ 63i,13n,57p,1532b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on github.pdf (12 pages, 229800 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

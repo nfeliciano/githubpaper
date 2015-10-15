@@ -33,13 +33,12 @@
 
 \begin{document}
 
-\title{A Sample {\ttlit ACM} SIG Proceedings Paper in LaTeX
-Format\titlenote{(Does NOT produce the permission block, copyright information nor page numbering). For use with ACM\_PROC\_ARTICLE-SP.CLS. Supported by ACM.}}
-\subtitle{[Extended Abstract]
-\titlenote{A full version of this paper is available as
-\textit{Author's Guide to Preparing ACM SIG Proceedings Using
-\LaTeX$2_\epsilon$\ and BibTeX} at
-\texttt{www.acm.org/eaddress.htm}}}
+\title{A Case Study of Using GitHub in Software Engineering Courses}
+% \subtitle{[Extended Abstract]
+% \titlenote{A full version of this paper is available as
+% \textit{Author's Guide to Preparing ACM SIG Proceedings Using
+% \LaTeX$2_\epsilon$\ and BibTeX} at
+% \texttt{www.acm.org/eaddress.htm}}}
 %
 % You need the command \numberofauthors to handle the 'placement
 % and alignment' of the authors beneath the title.
@@ -65,7 +64,7 @@ Format\titlenote{(Does NOT produce the permission block, copyright information n
 % without further effort on your part as the last section in
 % the body of your article BEFORE References or any Appendices.
 
-\numberofauthors{8} %  in this sample file, there are a *total*
+\numberofauthors{2} %  in this sample file, there are a *total*
 % of EIGHT authors. SIX appear on the 'first-page' (for formatting
 % reasons) and the remaining two appear in the \additionalauthors section.
 %
@@ -95,33 +94,6 @@ any knowledge of this author's actions.}\\
        \affaddr{P.O. Box 1212}\\
        \affaddr{Dublin, Ohio 43017-6221}\\
        \email{webmaster@marysville-ohio.com}
-% 3rd. author
-\alignauthor Lars Th{\o}rv{\"a}ld\titlenote{This author is the
-one who did all the really hard work.}\\
-       \affaddr{The Th{\o}rv{\"a}ld Group}\\
-       \affaddr{1 Th{\o}rv{\"a}ld Circle}\\
-       \affaddr{Hekla, Iceland}\\
-       \email{larst@affiliation.org}
-\and  % use '\and' if you need 'another row' of author names
-% 4th. author
-\alignauthor Lawrence P. Leipuner\\
-       \affaddr{Brookhaven Laboratories}\\
-       \affaddr{Brookhaven National Lab}\\
-       \affaddr{P.O. Box 5000}\\
-       \email{lleipuner@researchlabs.org}
-% 5th. author
-\alignauthor Sean Fogarty\\
-       \affaddr{NASA Ames Research Center}\\
-       \affaddr{Moffett Field}\\
-       \affaddr{California 94035}\\
-       \email{fogartys@amesres.org}
-% 6th. author
-\alignauthor Charles Palmer\\
-       \affaddr{Palmer Research Laboratories}\\
-       \affaddr{8600 Datapoint Drive}\\
-       \affaddr{San Antonio, Texas 78229}\\
-       \email{cpalmer@prl.com}
-}
 % There's nothing stopping you putting the seventh, eighth, etc.
 % author on the opening page (as the 'third row') but we ask,
 % for aesthetic reasons that you place these 'additional authors'
@@ -166,8 +138,8 @@ output produced by the dvi file.
 
 \input{1-introduction.tex}
 \input{2-background.tex}
-\input{3-github.tex}
-\input{4-methodology.tex}
+\input{3-methodology.tex}
+\input{4-github.tex}
 \input{5-results.tex}
 \input{6-discussion.tex}
 \input{7-conclusion.tex}
@@ -244,3 +216,17 @@ it useful but please remember not to change it.
 \balancecolumns
 % That's all folks!
 \end{document}
+
+
+
+% Todo
+% x - you need a title:  perhaps "A Case Study of Using GitHub in Software Engineering Courses"
+% - add authors, write a rough abstract, get rid of acknowledgements and other junk from the template (it distracts a bit!)
+% x - To the introduction, don't list out the research questions again, as they come later in the methodology -- just summarize them in this section (so get rid of section 1.1)
+% x - in the background you talk about the first GitHub paper -- you need to say "we" did...  and somehow you need to mention this a bit more in the introduction as well -- as motivation for the case study
+% x - Section 3, should come after the methodology and probably should be titled "The Case Study".
+% x - RQ1 needs to be shortened in the heading, same for RQ2, e.g., Which challenges do sutdent face..."
+% x - Section on "Benefit: gaining experience with " is too long, you don't need so many quotes
+% x - Not sure you need to include all the discrepancies, they distract -- perhaps just one or two?
+% - Discussion:  could you bring in more "software engineering" related dicussion?
+% - I would keep the recommendations for educators but perhaps shorten the text in there a bit
