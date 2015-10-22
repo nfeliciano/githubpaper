@@ -47,8 +47,16 @@
 
 \documentclass{sig-alternate}
 
-\usepackage[hyphens]{url}      % llt: nicely formatted URLs
+% Load basic packages
+\usepackage{balance}  % to better equalize the last page
+\usepackage{graphics} % for EPS, load graphicx instead
+\usepackage[pdftex]{hyperref}
+\usepackage{booktabs}
+\usepackage{enumerate}
 \usepackage{todonotes}% allows to add inline comments with \todo[inline]{comment text}
+
+% The following command makes sure text doesn't go outside of the page limit - added by Alexey
+\sloppy
 
 \begin{document}
 %
