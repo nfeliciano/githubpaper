@@ -1422,8 +1422,8 @@
 \newtoks\copyrtyr
 \newtoks\acmcopyr
 \newtoks\boilerplate
-\global\acmcopyr={X-XXXXX-XX-X/XX/XX}  % Default - 5/11/2001 *** Gerry
-\global\copyrtyr={20XX}                % Default - 3/3/2003 *** Gerry
+\global\acmcopyr={978-1-4503-4205-6}  % Default - 5/11/2001 *** Gerry
+\global\copyrtyr={2016}                % Default - 3/3/2003 *** Gerry
 \def\CopyrightYear#1{\global\copyrtyr{#1}}
 \def\crdata#1{\global\acmcopyr{#1}}
 \def\permission#1{\global\boilerplate{#1}}
